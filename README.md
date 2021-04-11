@@ -1,5 +1,7 @@
 # Redux-Store
 
+<img src="https://i.imgur.com/5ysg9Mb.png">
+
 ![License](https://img.shields.io/badge/License-none-blue.svg)
 ## Table of Contents
 *[Description](#description)<br>
